@@ -1,0 +1,8 @@
+{
+  "name": "Home App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "48e7ef33"
+}
